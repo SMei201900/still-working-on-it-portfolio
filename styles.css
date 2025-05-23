@@ -2,19 +2,19 @@ h1 {
     color: blue; 
 }
 
-.cerf-img-size {
-    width: 100px;
-    height: 100px;
-
-} 
-
 .cerf-img-display {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
-}
+} /*this is here so that the cer img will sit on the same row as each other*/
 
 .cerf-tile {
     display: flex; 
     gap: 10px;
-}
+} /*need to do something else to this */
+
+.cerf-img-size {
+    width: 100px;
+    height: 100px;
+} 
+
