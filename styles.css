@@ -2,13 +2,19 @@ h1 {
     color: blue; 
 }
 
-.cerf-img {
+.cerf-img-size {
     width: 100px;
     height: 100px;
 
 } 
 
-.testing {
-    display: flex;
-    justify-content: center; 
+.cerf-img-display {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+.cerf-tile {
+    display: flex; 
+    gap: 10px;
 }
