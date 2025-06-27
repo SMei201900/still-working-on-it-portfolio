@@ -50,6 +50,30 @@ nav ul {
 }
 
 /**/
+#home span { /*view my work button*/
+    background: beige; 
+    font-size: 20px;
+    padding: 20px;
+    border: transparent;
+    border-radius: 50px;
+}
+
+/**/
+#about h2 {
+    font-size: 48px;
+    text-align: center;
+}
 
 
+/**/
+#projects h3 {
+    font-size: 48px;
+    text-align: center;
+}
+
+/**/
+#contact h4 {
+    font-size: 36px;
+    text-align: center;
+}
 
