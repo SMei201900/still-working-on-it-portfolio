@@ -54,7 +54,6 @@ nav ul {
     background: beige; 
     font-size: 20px;
     padding: 20px;
-    border: transparent;
     border-radius: 50px;
 }
 
@@ -64,6 +63,30 @@ nav ul {
     text-align: center;
 }
 
+#about span { /*button*/
+    background: beige;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+#about a {
+    color: black;
+    text-decoration: none;
+}
+
+#about a:hover {
+    color: pink; /*PLACEHOLDER COLOR*/
+}
+
+/*
+
+
+EMPTY SPACE, WILL BE EDITED 
+
+
+
+
+*/
 
 /**/
 #projects h3 {
