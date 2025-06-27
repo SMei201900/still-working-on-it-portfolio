@@ -1,10 +1,17 @@
-h1 {
-    color: blue; 
+#home {
+    min-height: 100vh;
+    margin-top: 300px;
+    text-align: center;
 }
 
+#home h1 {
+    font-size: 72px;
+}
 
-
-
+#home p {
+    font-size: 36px;
+    line-height: 45px;
+}
 
 
 
