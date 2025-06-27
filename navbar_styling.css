@@ -1,0 +1,25 @@
+#navbar {
+    background: beige; /*PLACEHOLDER COLOR*/
+    position: fixed; /*allows the navbar to stay in place*/
+    width: 100%; 
+    top: 0px;
+}
+
+nav ul {    
+    list-style-type: none; /*no bullet points*/
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    padding-right: 20px;
+}
+
+#navbar a {
+    color: black; /*PLACEHOLDER COLOR*/
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#navbar a:hover {
+    color: pink; /*PLACEHOLDER COLOR*/
+    text-decoration: underline;
+}
