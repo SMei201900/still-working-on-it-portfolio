@@ -108,3 +108,10 @@ EMPTY SPACE, WILL BE EDITED
     text-align: center;
 }
 
+/*responsiveness for phone*/
+@media (max-width: 767px) {
+    nav {
+        display: none; /*hide the nav-menu when on phone*/
+    }
+
+}
