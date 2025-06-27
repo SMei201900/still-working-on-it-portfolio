@@ -94,6 +94,14 @@ EMPTY SPACE, WILL BE EDITED
     text-align: center;
 }
 
+#projects button {
+    background: beige;
+    padding: 15px;
+    border: transparent;
+    border-radius: 50px;
+}
+
+
 /**/
 #contact h4 {
     font-size: 36px;
