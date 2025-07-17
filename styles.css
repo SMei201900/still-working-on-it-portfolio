@@ -78,6 +78,22 @@ nav ul {
     color: pink; /*PLACEHOLDER COLOR*/
 }
 
+.timeline {
+    background: thistle;
+    padding: 20px 10px;
+    margin: 20px;
+    border-radius: 50px;
+    width: 14%;
+    font-size: 25px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%); /*reposition an element horizonal to the lef tby 50% of its own width*/
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    align-items: center;
+}
+
 /*
 
 
